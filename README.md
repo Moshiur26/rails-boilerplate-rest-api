@@ -22,5 +22,15 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-### 
+
+### Rails 7 replaced byebug with ruby/debug
+`instead of byebug use binding.break`
+
+### Rails Used Command
 `rails new rails-boilerplate-rest-api --api --database=postgresql`
+
+### Extra Included Gem Into Gemfile
+```
+gem 'devise'
+gem 'devise-jwt'
+```
