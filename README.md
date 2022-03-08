@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+### 
+`rails new rails-boilerplate-rest-api --api --database=postgresql`
