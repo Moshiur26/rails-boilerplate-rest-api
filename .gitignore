@@ -27,4 +27,12 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
-/.idea
+
+/config/database.yml
+/config/secret.yml
+/.env
+
+.idea
+.generators
+.rakeTasks
+.rbenv-vars
